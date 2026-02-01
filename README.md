@@ -1,2 +1,2 @@
-# coolege-library
+# college-library
 college library frontend website 
